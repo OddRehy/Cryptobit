@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/*",
+        "destination": "../dist/index.html",
+        "status": 200
+      }
+    ]
+  }
+  
